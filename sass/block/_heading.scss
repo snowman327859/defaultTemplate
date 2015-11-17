@@ -1,0 +1,25 @@
+/*
+#overview
+スタイルガイド
+デフォルトのH1見出し
+*/
+
+/*#styleguide
+サンプル見出し
+
+サンプル見出しのスタイル
+
+
+```
+<h1>H1見出し</h1>
+```
+*/
+
+h1 {
+	color: red;
+	transition: 200ms ease-out transform;
+	&:hover {
+		color: red;
+		transform: translate(10px,0);
+	}
+}
