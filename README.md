@@ -1,4 +1,4 @@
-# defaultTemplate
+# defaultTemplate-BEM-
 
     gulpのベーステンプレート、BEMでのCSS設計を想定しています。
     本テンプレートは、下記の内容をインストールをしていて、クローン作成後、
